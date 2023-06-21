@@ -28,7 +28,7 @@ Bustter
 
 ## 제품 소개 슬라이드
 
-[decks](decks/Bustter슬라이드덱.jpg)
+[decks](https://github.com/hackersground-kr/20230621HG/blob/main/decks/Bustter%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%8D%B1.jpg)
 
 ## 제품 소개 동영상
 
