@@ -28,7 +28,7 @@ Bustter
 
 ## 제품 소개 슬라이드
 
-[decks](decks/Bustter 슬라이드덱.jpg)
+[decks](decks/Bustter_슬라이드덱.jpg)
 
 ## 제품 소개 동영상
 
