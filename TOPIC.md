@@ -28,7 +28,7 @@ Bustter
 
 ## 제품 소개 슬라이드
 
-**(필수)** 제품 또는 서비스를 소개하는 슬라이드 덱을 리포지토리에 추가해 주세요. 슬라이드 덱은 [decks](./decks) 디렉토리에 저장한 후 이곳에 링크를 걸어주세요.
+[decks](https://github.com/hackersground-kr/20230621HG/blob/main/decks/%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%93%EF%BC%AD%EF%BC%B3%ED%95%B4%EC%BB%A4%ED%86%A4.pptx)
 
 ## 제품 소개 동영상
 
